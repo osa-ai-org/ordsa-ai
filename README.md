@@ -1,5 +1,25 @@
 # Ordinal Systems Architecture (OrdSA)
 
+> **⚠️ This repository has been retired. OrdSA now lives in the AIDE canon at [`ologos-repos/aide-canon/constructs/ordsa/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa).**
+>
+> OrdSA has been migrated into the **AI-centric Digital Ecosystem (AIDE)** canon as one of four peer methodological constructs (alongside [DEA](https://github.com/ologos-repos/aide-canon/tree/main/constructs/dea), [MxM](https://github.com/ologos-repos/aide-canon/tree/main/constructs/mxm), [OAgents](https://github.com/ologos-repos/aide-canon/tree/main/constructs/oagents)). The migration preserved full commit history via `git filter-repo`. The canon-level migration decision is recorded in [ADR-EA-0006](https://github.com/ologos-repos/aide-canon/blob/main/decisions/ADR-EA-0006-migrate-corpus-to-aide-canon.md).
+>
+> **Where to find OrdSA artifacts now:**
+>
+> | Was here | Now at |
+> |---|---|
+> | `schema/ordsa-0.2.yaml` (canonical) | [`aide-canon/constructs/ordsa/schema/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa/schema) |
+> | `docs/concept.md` + supporting docs | [`aide-canon/constructs/ordsa/docs/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa/docs) |
+> | `docs/marketing/OrdSA-Construct.png` (poster) | [`aide-canon/constructs/ordsa/docs/marketing/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa/docs/marketing) |
+> | `decisions/ADR-ORDSA-*` + `ADR-MP-*` | [`aide-canon/constructs/ordsa/decisions/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa/decisions) |
+> | `CONTRIBUTING.md` | [`aide-canon/constructs/ordsa/CONTRIBUTING.md`](https://github.com/ologos-repos/aide-canon/blob/main/constructs/ordsa/CONTRIBUTING.md) |
+>
+> **Existing citations remain valid.** External links pointing at `osa-ai-org/ordsa-ai` continue to resolve via the archived repository's public-read access. For new citations, please reference the [`ologos-repos/aide-canon/constructs/ordsa/`](https://github.com/ologos-repos/aide-canon/tree/main/constructs/ordsa) paths.
+>
+> This README is preserved below for historical reference. Future OrdSA work happens at the canon.
+
+---
+
 **A control-oriented enterprise architecture construct for Enterprise AI that orders AI capability by ordered authority, abstraction, execution rights, and evidence flow.**
 
 <p align="center">
